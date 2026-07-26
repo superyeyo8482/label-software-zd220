@@ -64,6 +64,20 @@ El software está preconfigurado para trabajar con el tamaño estándar en joyer
 
 ---
 
+
+## 📊 Plantilla para Google Sheets
+
+Puedes usar esta plantilla para preparar tus datos antes de pegarlos en el software:
+
+🔗 [Formato para exportar a Software de Impresión - Google Sheets](https://docs.google.com/spreadsheets/d/1uYEqVEc6t9Mp1t_sUH25-_F0lfkkyB-gVR1h33SDkx0/edit?usp=sharing)
+
+**Instrucciones:**
+1. Abre el enlace.
+2. Ve a **Archivo → Hacer una copia**.
+3. La copia se guardará en tu Google Drive.
+4. Llena los datos y pégalos en el Label Software.
+
+
 ## Licencia y modelo de uso
 
 Este proyecto está bajo la **Licencia MIT**, lo que significa que el código es abierto y puedes usarlo, modificarlo y distribuirlo libremente.
@@ -146,3 +160,4 @@ Las herramientas que usamos —Python, LaTeX, ZPL, y la IA que nos acompañó—
 ---
 
 **¡Listo! Ahora puedes imprimir etiquetas para todas tus joyas.**
+
